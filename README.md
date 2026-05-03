@@ -1,3 +1,10 @@
+markdown
+![Berramdane Model Result](images/dtqem_final.jpg)
+
+
+
+
+
 # DTQEM-Negative-Time-Model-of-Quantum-Non-locality
 DTQEM (Dual‑Time Quantum Entanglement Model) attributes non‑locality to a negative imaginary time carried by entangled particles. Calibrated to Gisin’s lower bound (v>1e7c at 0K) and returning to classical speed at 300K, it explains thermal decoherence, Heisenberg uncertainty, and double‑slit fringe contrast. Includes interactive Python simulation.
 # DTQEM: Dual-Time Quantum Entanglement Model
